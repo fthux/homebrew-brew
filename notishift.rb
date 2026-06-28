@@ -2,7 +2,7 @@ class Notishift < Formula
   desc "Native macOS menu bar app for repositioning notification banners"
   homepage "https://github.com/fthux/NotiShift"
   url "https://github.com/fthux/NotiShift/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "e683ce68ad5f6d3393751222ba285ef2eef5b90c2f260cf239be8c5aa20c8c14 SHA256"
+  sha256 "e683ce68ad5f6d3393751222ba285ef2eef5b90c2f260cf239be8c5aa20c8c14"
   license "AGPL-3.0-or-later"
 
   depends_on :macos
